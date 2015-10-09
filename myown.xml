@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<project name="DriveStore" default="hello">
-      <target name="hello">
-      <echo>hello</echo>
-      </target>
-    
-
-</project>
